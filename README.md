@@ -6,7 +6,7 @@ Welcome to my project!Flappy Bird is a simple and addictive game where the playe
 You just require a code editor like Visual Studio Code to run the html,css and js files.
 
 # Installation
-Clone the repository: git clone https://github.com/ShilpiGupta1701/Flappy_Bird_Game/new/master
+Clone the repository: git clone https://github.com/ShilpiGupta1701/Flappy_Bird_Game
 
 # How to Play
 Use the spacebar or left mouse button to make the bird jump.
