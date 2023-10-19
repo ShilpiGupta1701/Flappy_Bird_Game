@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace; 
+    /* font-family:;  */
+     /* background-color:#F1C27B; */
+     background-image: url('./bg2.0.jpg');
+     
+    text-align: center;
+}
+
+/* .background
+{
+    background-image: url('./outerbg.jpg');
+    opacity:0.9;
+} */
+
+/* DESIGNING FOR CANVAS */
+#board{
+     /* background-color: rgb(12, 169, 231);  */
+     /* background-color:#4FC0D0;  */
+     background-image: url('./flappybirdbg.png');
+     border: 2px solid #1B6B93;
+}
+
